@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DBEST"]
+	path = DBEST
+	url = https://github.com/cran/DBEST
+	shallow = true
+	registered = true
+[submodule "PolyTrend"]
+	path = PolyTrend
+	url = https://github.com/cran/PolyTrend
+	shallow = true
+	registered = true
